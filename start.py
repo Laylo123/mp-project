@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python3
 """
 Railway startup script - handles PORT environment variable and ensures database schema
